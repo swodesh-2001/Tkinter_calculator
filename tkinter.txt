@@ -1,0 +1,19 @@
+label function
+frame
+grid
+button
+mainloop
+pack(side = .....) can be used only for non grid frames
+fg = foreground
+bg = background
+pack(fill = x) increase the columnspan as max as possible
+entry
+title
+columnspan
+Checkbutton
+command inside button
+MOUSE CLICKS EVENT
+it is donw inside frame
+frame.bind("<Button-1>", leftClick) # here "<Button-1>" means leftclick
+frame.bind("<Button-2>", middleClick) 
+frame.bind("<Button-3>", rightClick) 
