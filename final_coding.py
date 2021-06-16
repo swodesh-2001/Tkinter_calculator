@@ -198,7 +198,7 @@ class calculator:
 
 
 
-SoniyaKc_calc = calculator('Soniya','pink')
-SoniyaKc_calc.start_calc()
+swodesh_calc = calculator('Swodesh','pink')
+swodesh_calc.start_calc()
 
 
